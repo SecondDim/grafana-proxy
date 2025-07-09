@@ -4,7 +4,7 @@ This is a simple Rust-based proxy server that receives webhook notifications fro
 
 ## Features
 
-* Forwards Grafana alerts to Microsoft Power Automate.
+* Forwards Grafana alerts to Microsoft Power Automate(Teams).
 * Configurable Power Automate webhook URL via command-line arguments.
 * Accepts invalid SSL certificates for easier testing in development environments.
 * Cross-platform compilation support.
@@ -81,7 +81,7 @@ This project is licensed under the MIT License.
 
 ## 功能
 
-* 將 Grafana 警示轉發到 Microsoft Power Automate。
+* 將 Grafana 警示轉發到 Microsoft Power Automate(Teams)。
 * 可透過命令列參數設定 Power Automate Webhook URL。
 * 接受無效的 SSL 憑證，以便在開發環境中輕鬆測試。
 * 支援跨平台編譯。
